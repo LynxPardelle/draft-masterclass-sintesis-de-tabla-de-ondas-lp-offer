@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Síntesis de tabla de ondas | Lynx Pardelle",
+    "description": "Diseña un timbre que cambia mientras suena una nota. Explora el recorrido entre formas de onda de una tabla y controla ese movimiento con envolventes o un LFO.",
+    "canonical": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-diseno.webp"
+    }
+  }
+}
