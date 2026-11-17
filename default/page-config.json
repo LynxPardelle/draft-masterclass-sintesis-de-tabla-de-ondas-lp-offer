@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Síntesis de tabla de ondas | Lynx Pardelle",
-    "description": "Diseña un timbre que cambia mientras suena una nota. Explora el recorrido entre formas de onda de una tabla y controla ese movimiento con envolventes o un LFO.",
+    "title": "Masterclass de síntesis con tablas de ondas | Lynx Pardelle",
+    "description": "Explora Wavetable, posición y recorrido por la tabla, LFO y envolventes. Aprende cómo cambia el timbre al recorrer distintas formas de onda.",
     "canonical": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sintesis-de-tabla-de-ondas-r2-a1701903d5f7593a.webp",
+      "title": "Masterclass de síntesis con tablas de ondas | Lynx Pardelle",
+      "description": "Explora Wavetable, posición y recorrido por la tabla, LFO y envolventes. Aprende cómo cambia el timbre al recorrer distintas formas de onda.",
+      "url": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/",
+      "imageAlt": "Controles de un sintetizador y una visualización de onda."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de síntesis con tablas de ondas | Lynx Pardelle",
+      "description": "Explora Wavetable, posición y recorrido por la tabla, LFO y envolventes. Aprende cómo cambia el timbre al recorrer distintas formas de onda.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sintesis-de-tabla-de-ondas-r2-a1701903d5f7593a.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/#webpage",
+        "name": "Síntesis de tabla de ondas",
+        "description": "Explora Wavetable, posición y recorrido por la tabla, LFO y envolventes. Aprende cómo cambia el timbre al recorrer distintas formas de onda.",
+        "url": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Síntesis de tabla de ondas",
+        "description": "Explora Wavetable, posición y recorrido por la tabla, LFO y envolventes. Aprende cómo cambia el timbre al recorrer distintas formas de onda.",
+        "url": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sintesis-de-tabla-de-ondas-r2-a1701903d5f7593a.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-sintesis-de-tabla-de-ondas.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
